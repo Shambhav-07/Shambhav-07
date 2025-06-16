@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Kumar Shambhav
-- 👀 I’m interested in Coding(Specially in Java)...
-- 🌱 I’m currently learning DSA in JAVA & Full Stack Development ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  kumarshambhav75@gmail.com...
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: ...
+## 👋 Hi there, I'm Kumar Shambhav!
 
-<!---
-Shambhav-07/Shambhav-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I'm passionate about **Java programming** and problem-solving.
+- 🌱 Currently learning **Data Structures & Algorithms in Java** and exploring **Full Stack Web Development**.
+- 💻 I enjoy building projects and contributing to open-source.
+- 🤝 Open to collaborations on Java-based projects, DSA problems, or full-stack apps.
+- 📫 Reach me at: **kumarshambhav75@gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: *Kal-El on weekends and Clark Kent on weekdays.*
